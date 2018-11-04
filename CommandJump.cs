@@ -15,7 +15,7 @@ namespace SimpleJump
 
         public string Help => "Teleports (Jumps) you to where you are looking.";
 
-        public string Syntax => "/jump";
+        public string Syntax => "";
 
         public List<string> Aliases => new List<string>();
 
