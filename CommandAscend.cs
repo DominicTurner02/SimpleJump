@@ -13,7 +13,7 @@ namespace SimpleJump
     {
         public AllowedCaller AllowedCaller => AllowedCaller.Player;
 
-        public string Name => "Ascend";
+        public string Name => "ascend";
 
         public string Help => "Teleports you X meters above you.";
 
