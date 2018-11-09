@@ -56,6 +56,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandAscend.cs" />
+    <Compile Include="CommandDescend.cs" />
     <Compile Include="ConfigurationSimpleJump.cs" />
     <Compile Include="SimpleJump.cs" />
     <Compile Include="CommandJump.cs" />
